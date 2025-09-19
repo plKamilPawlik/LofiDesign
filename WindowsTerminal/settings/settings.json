@@ -1,0 +1,16 @@
+{
+	"profiles": {
+		"defaults": {
+			"colorScheme": "Lofi Dark Slate",
+			"useAcrylic": false,
+			"opacity": 100,
+			"padding": "8",
+			"font": {
+				"cellHeight": "1.4",
+				"face": "Iosevka Lofi",
+				"size": 12,
+				"weight": "normal"
+			}
+		}
+	}
+}

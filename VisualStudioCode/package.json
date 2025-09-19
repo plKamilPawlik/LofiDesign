@@ -1,0 +1,48 @@
+{
+	"name": "lofi-dark",
+	"icon": "images/vscode.png",
+	"displayName": "Lofi Dark",
+	"description": "Low fidelity version of the default Visual Studio Code Dark theme family",
+	"publisher": "plKamilPawlik",
+	"repository": "https://github.com/plKamilPawlik/LofiDesign",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.104.0"
+	},
+	"author": {
+		"name": "Kamil Pawlik",
+		"url": "https://github.com/plKamilPawlik"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lofi Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lofi-dark.json"
+			},
+			{
+				"label": "Lofi Dark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lofi-dark.plus.json"
+			},
+			{
+				"label": "Lofi Dark Modern",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lofi-dark-modern.json"
+			},
+			{
+				"label": "Lofi Dark Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lofi-dark-night.json"
+			},
+			{
+				"label": "Lofi Dark Slate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lofi-dark-slate.json"
+			}
+		]
+	}
+}

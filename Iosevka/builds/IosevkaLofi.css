@@ -1,0 +1,131 @@
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: normal;
+	src:
+		url("WOFF2/IosevkaLofi-Condensed.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-Condensed.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src:
+		url("WOFF2/IosevkaLofi-Regular.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: italic;
+	src:
+		url("WOFF2/IosevkaLofi-CondensedItalic.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-CondensedItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src:
+		url("WOFF2/IosevkaLofi-Italic.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: normal;
+	src:
+		url("WOFF2/IosevkaLofi-CondensedMedium.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-CondensedMedium.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src:
+		url("WOFF2/IosevkaLofi-Medium.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-Medium.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: italic;
+	src:
+		url("WOFF2/IosevkaLofi-CondensedMediumItalic.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-CondensedMediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src:
+		url("WOFF2/IosevkaLofi-MediumItalic.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-MediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: normal;
+	src:
+		url("WOFF2/IosevkaLofi-CondensedBold.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-CondensedBold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src:
+		url("WOFF2/IosevkaLofi-Bold.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: italic;
+	src:
+		url("WOFF2/IosevkaLofi-CondensedBoldItalic.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-CondensedBoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Iosevka Lofi Web";
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src:
+		url("WOFF2/IosevkaLofi-BoldItalic.woff2") format("woff2"),
+		url("TTF/IosevkaLofi-BoldItalic.ttf") format("truetype");
+}

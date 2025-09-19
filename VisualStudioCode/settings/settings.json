@@ -1,0 +1,21 @@
+{
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.detectIndentation": false,
+	"editor.fontFamily": "Iosevka Lofi",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 16,
+	"editor.fontWeight": 400,
+	"editor.minimap.enabled": false,
+	"editor.smoothScrolling": true,
+	"terminal.integrated.fontFamily": "Iosevka Lofi",
+	"terminal.integrated.fontLigatures.enabled": true,
+	"terminal.integrated.fontSize": 16,
+	"terminal.integrated.lineHeight": 1.1,
+	"terminal.integrated.smoothScrolling": true,
+	"window.menuBarVisibility": "compact",
+	"workbench.colorTheme": "Lofi Dark Slate",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.layoutControl.enabled": false,
+	"workbench.list.smoothScrolling": true,
+	"workbench.navigationControl.enabled": false
+}
